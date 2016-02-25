@@ -5,6 +5,7 @@ body {
 }
 
 h1 { 
+    padding-top: 3em;
     text-align: center;
     color: #fff;
     font-size: 3em;
