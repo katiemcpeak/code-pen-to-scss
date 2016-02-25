@@ -1,7 +1,6 @@
-
 h1 { 
     text-align: center;
-    color: #00bfff;
+    color: #9933ff;
     font-size: 3em;
 }
 
@@ -20,7 +19,7 @@ h1 {
 
 .dropdown-menu label {
 	
-	background:#1e83e5;
+	background:#9933ff;
 	color:#fff; 
 	color:rgba(0,0,0,0.6);
 	border:1px solid #fff; 
@@ -123,7 +122,7 @@ h1 {
 } 
 
 .dropdown-menu a:hover {
-	background:#0088CC;
+	background:#cc99ff;
 	color:#fff;
 } 
 
